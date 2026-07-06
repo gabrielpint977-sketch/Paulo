@@ -1,0 +1,46 @@
+     @media (max-width: 600px) {
+       
+            .container, #segundo-menu {
+                display: block;
+            }
+            #faa{display:none;}  
+            #openBtn{ font-size:30px;
+                     width: 25px;
+                       height: 25px;
+                    margin-left:250px;}
+   #be{ display: block;
+               font-size:24px;
+                font-weight:400;
+margin-left:-12px;
+
+               width:300px;
+               color: rgb(33, 133, 33);
+               margin-top:20px;
+                 text-align: center;
+               
+               }
+                #pra{display:block; 
+                 margin-left: 12px;     
+                  img{ width: 300px;
+             height: 280px; 
+                                             
+margin-top:-15px;
+
+                    }
+                    }
+                        #pri{display:none;}
+         
+ .stp{font-size:20px;
+     font-weight:400;}
+ #siga{a{color:#000; margin-left:40px;  }
+  display:gird;    }           
+    #papa{ margin-left:20px;
+        color: #000000;
+      text-align: center;
+         width: 300px;
+    }
+     
+    #foo{   height:40vh;  }
+  
+       
+ }

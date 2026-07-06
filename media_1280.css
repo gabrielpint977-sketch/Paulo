@@ -1,0 +1,17 @@
+ @media (max-width: 1280px) {
+            .container, #segundo-menu {
+                display: none;
+            }
+               #be{ display: none;}
+            #pra{display:none;}
+           
+
+ul{margin-left: -100px;}
+
+.dropdown2 #in {
+  top: 50%;
+  left: 48%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}}
+       
